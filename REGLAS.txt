@@ -1,0 +1,82 @@
+LAS REGLAS DE LA CANASTA
+La canasta es un juego de naipes cuyo objetivo es crear grupos de cartas del mismo valor,
+para luego finalizar jugando o descartando todas las cartas de la mano.
+
+Otra particularidad es que en la Canasta, cuando un jugador toma cartas de la pila de descarte, se lleva la pila completa, en vez de llevarse sólo la primera carta, como ocurre en la mayoría de los otros juegos.
+Estas diferencias reglamentarias hacen al juego muy particular. Mientras que en la mayoría de los otros juegos el objetivo es descartarse rápido, y tener cartas en la mano es considerado malo, el objetivo de la Canasta requiere muchas cartas, por lo que conservar las cartas y llevarse la pila de descarte es usualmente provechoso para el jugador.
+Existen variantes del juego, desde dos hasta cuatro jugadores, pero la versión original es la de 4 jugadores. Los juegos de 4 y 6 jugadores son juegos de equipo. Las versiones más populares son las de 2 y 4 jugadores.
+Se usa la baraja francesa (o inglesa o de poker). Se juega con dos juegos de cartas (52 por juego) más los 4 comodines. En total 108 naipes. En la variante española se juega con 4 barajas más dos comodines por baraja. En total 208 naipes.
+El valor de cada carta es el siguiente:
+• As (20 puntos)
+• 8, 9, 10, J, Q y K (10 puntos)
+• 4, 5, 6 y 7 (5 puntos)
+• el 3 rojo (corazones o diamantes) Es una carta honorífica, nunca se juega. En cuanto se consigue, se muestra sobre la mesa y se reemplaza por otra carta del mazo. Vale 100 puntos en el caso de haber conseguido por lo menos una canasta
+a lo largo de la mano; en caso contrario, valdrá 100 puntos en contra. 4 Tres rojos valen 800 puntos.
+• el 3 negro (picas y tréboles) se considera tapón, es decir, cuando un jugador coloca un 3 negro en la pila de descarte, el siguiente no puede llevársela. Cada 3
+negro que quede en la mano de un jugador vale 100 puntos en contra (negativos).
+• el 2 vale 20 puntos (comodines)
+• los jokers valen 50 puntos (comodines)
+
+ 
+
+El Objetivo
+El objetivo del juego consiste en llegar a los 5.000 puntos (partida rápida) o a los 7.000 (partida normal o standard). Para conseguir estos puntos se deben hacer “canastas”. Las canastas son grupos de siete cartas del mismo número.
+
+En la variante española existen tres modalidades de juego:
+• Individual: Cada jugador juega “solo” y sólo cuenta con sus propias cartas.
+• Parejas:  Cuando hay 4 jugadores, se pueden formar dos equipos (A y B, por ejemplo). Los jugadores se situarán de forma alterna en la mesa de juego. Es
+decir: A, B, A, B.
+• Tríos: Cuando hay 6 jugadores también se pueden formar dos equipos. Igual que en el modo por parejas los jugadores se situarán en la mesa de forma alterna (A,
+B, A, B, A, B). Cuando hay 6 o más jugadores, en vez de 4 barajas se usarán 8, con dos jokers por baraja, sumando un total de 432 cartas en juego.
+
+ 
+
+Para inciar el juego se barajan las cartas y se decide quién empieza mediante “la carta más alta”. Es decir, cada jugador levanta una carta del mazo (las 216 iniciales) y el que saque la carta más alta será el primero en empezar. Si se saca un joker, se tomará la carta inmediatamente inferior. Hay que resaltar que la carta más baja sería el As y la más alta la (o rey).
+El jugador situado a la izquierda del que empieza será el encargado de repartir 15 cartas a cada jugador y dará la primera carta al jugador que va a empezar el juego.
+El jugador situado a la izquierda del que reparte será el encargado de “cortar” el mazo.
+Si saca un joker, un 2(comodín) o un 3 rojo podrá quedárselo, sin que esta carta “cuente” en las que le deben ser repartidas. Es decir, si un jugador al cortar y levantar saca un jocker, se lo quedaría e igualmente se le repartirían las 15 cartas correspondientes. Si debajo del jocker se encontrase otro jocker, 2(comodín) o 3 rojo también se lo quedaría y así sucesivamente. Si el jugador que corta, corta exacto, se le bonificará con 100 puntos (pero que sólo serán positivos si hace una canasta, sino serán negativos).
+Antes de empezar, se preguntará a los jugadores si tienen tres rojos. De ser así, los mostrarán y los depositarán sobre la mesa, a su lado, y robarán del mazo tantas cartas como tres rojos tengan.
+Después de repartir las 15 cartas a cada jugador, el que reparte colocará 6 cartas apiladas sobre la mesa boca abajo y encima de estas colocará una boca arriba. Estas 7 cartas configuran el “pote” inicial.
+El jugador que empieza decide si llevarse el pote le interesa. Si es así, debe tener en la mano dos o más cartas del mismo número que la carta que está boca arriba en el pote, más los puntos necesarios para llevarse el pote. Si tiene las cartas y los puntos puede llevarse el pote, es decir, llevarse la pila de cartas. Si no pudiera o no quisiera llevarse el pote, procedería a llevarse dos cartas del mazo y a desechar una (de las que tenga en la mano).
+Nota: El 3 negro se usa como tapón. Cuando un jugador lo tira al pote, el siguiente no puede llevarse el pote, tiene que llevarse dos cartas del mazo y jugar habitualmente.
+También es posible usar un comodín como tapón. Cuando un jugador lance un comodín al pote se colocará atravesado y el pote quedará “cruzado”, “castigado” o “vulnerado”.
+A partir de ese momento y hasta que alguien se lleve el pote, serán necesarias tres cartas del mismo número que la carta que está encima para poderse llevar el pote.
+Al principio todos los jugadores tienen todas las cartas en la mano. Pero a medida que se van llevando el pote es obligatorio que se “abran”: deben poner cartas sobre la mesa.
+Para abrirse se requiere un determinado número de puntos en la mano que se deben poner sobre la mesa, que dependerá del puntaje que tenga el jugador o la pareja de jugadores al inicio de la partida, según el siguiente cuadro:
+• En negativo: 15 puntos
+• De 0 a 1495: 50 puntos
+• De 1500 a 2995: 90 puntos
+• De 3000 a 4995: 120 puntos
+• De 5000 a 7495: 150 puntos
+• De 7500 en adelante: 180 puntos ¿Como puedo abrir con 7500 puntos si con 7000 se gana y se termina el juego?
+Al abrirse, el jugador tiene que poner las cartas sobre la mesa en grupos de 3 o más cartas e intentará completar las 7 necesarias para la canasta. En el caso de los comodines, se tienen que bajar de 5 en 5. Se pueden bajar dos cartas con un comodín.
+En las canastas, siempre tiene que haber un número igual o mayor de cartas del mismo número que comodines. La otra manera de tener los puntos además de con naipes es teniendo una “canasta oculta”.
+Todas las cartas abiertas cuentan en positivo, a partir de que se haga una canasta. Si se cierra la mano y el jugador se ha abierto, pero no ha hecho ninguna canasta, todas contarán en negativo.
+En la modalidad de parejas o tríos, cuando un jugador se abre, el otro integrante (o integrantes) del equipo pueden completar las canastas del primer jugador con las propias cuando llegue su turno.
+Nota: Es obligatorio para el jugador abrirse cuando se lleva el pote, pero no es necesario llevarse el pote para abrirse. También es válido que cualquier jugador, en su turno, se abra sin llevarse el pote, pero esto sólo tiene sentido en la modalidad por parejas o tríos.
+
+ 
+
+Los tipos de Canasta
+Una canasta es un grupo de siete cartas del mismo número. Existen los siguientes tipos:
+• Limpia: Canasta de 7 cartas de números iguales, sin comodines. Vale 500 puntos.
+• Sucia: Canasta de 7 cartas con 4, 5 ó 6 cartas del mismo número más 1, 2 ó 3 comodines. (Nota: En una canasta no puede haber más comodines que cartas comunes). Vale 300 puntos.
+• Oculta: Canasta de 7 cartas (limpia o sucia) que se realiza en la mano, sin mostrar ninguna carta. Cuando se pone sobre la mesa se indica con una carta cruzada, puesta de forma transversal, para diferenciarla de las canastas normales. Vale 1000 puntos.
+• De Comodines Sucia: Canasta de 7 comodines, combinando jokers con dos. Vale 2000 puntos.
+• De Comodines Limpia: Canasta de 7 comodines iguales: 7 dos o 7 jokers. Vale 3000 puntos.
+• Canasta a lo gusto: Canasta realizada con los 3 negros. Gana el partido
+
+En algunas variantes también existen las escalas. Hay dos tipos:
+• Escala: Conjunto de 7 cartas del mismo palo en orden sucesivo (por ejemplo: 5,6, 7, 8, 9, 10, J de corazones). Sin comodines. Vale 1500 puntos.
+• Escala Real: Todas las cartas jugables del mismo palo (desde el 4 al As, es decir, excluyendo los 2 y 3). Sin comodines. Vale 4000 puntos.
+Es importante mencionar que para que los puntos bonificables de una escala sean contabilizados, el jugador deberá tener mínimo una Canasta. Bonificaciones Especiales Cuando un jugador (pareja o trío) consigue 5 canastas, se bonifica al jugador con 500 puntos extra. Cuando un jugador (pareja o trío) consigue 7 canastas, se bonifica al jugador con 2000 puntos extra.
+Por cada 3 rojo se bonifica con 100 puntos. Cuando se consiguen 4 tres rojos se bonifica con 800 puntos. Para contar las bonificaciones de los tres rojos es necesario tener al menos una canasta cuando termine la partida (“mano”). Si no, esos puntos se cuentan en negativo.
+
+ 
+
+Fin del juego
+Un jugador (pareja o trío) gana el juego cuando llega a 15.000 puntos. Puede hacerlo en una sola “mano” o en varias.
+Para cerrar cada “mano” es necesario tener por lo menos una canasta limpia y otra sucia, todas las cartas ligadas sobre la mesa (en grupos de 3 a 7 cartas) y una carta sobrante para cerrar, que lanzará sobre el pote boca abajo. solo se puede cerrar la partida en la mano siguiente de cerrar la canasta limpia.
+Al terminar cada mano, se contarán los puntos obtenidos con las canastas más las bonificaciones. Además, cada jugador tomará todas sus cartas (excepto los tres rojos, que se contabilizan una sola vez) y sumará los puntos de cada una de ellas. Ejemplo: Una canasta limpia de Q vale 500 puntos, pero al terminar la mano se tomarían esas Q y se contarían esos puntos individualmente. Cada Q vale 10 puntos, por lo tanto se
+sumarían 70 puntos más. Al contar los puntos se suman todas las cartas que se encuentren ligadas sobre la mesa. Las cartas que un jugador se quede en la mano cuando otro cierre, cuentan en negativo. Ejemplo: Si al cerrar la mano un jugador, otro tiene 5 Q en la mano (no sobre la mesa) se le restarían 50 puntos en negativo. Además, al jugador que cierra se le bonifica con 200 puntos.
+En caso de que más de un jugador supere los 15.000 puntos, ganará aquel que tenga la puntuación más alta. En la modalidad de parejas o tríos se suman todos los puntos del equipo, no individualmente.
